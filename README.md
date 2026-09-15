@@ -121,6 +121,17 @@ Payment Status / Completion
 > manages the farmer's journey before, during and after the visit.
 
 ------------------------------------------------------------------------
+## 📱 System Prototype
+
+Our prototype contains three connected interfaces:
+
+- 👨‍🌾 **Farmer App** — slot booking, digital token, live queue and notifications
+- 🏢 **Purchaser / Procurement Centre** — queue management, crop verification and procurement updates
+- 🛡️ **Admin Panel** — centre monitoring, users, analytics and reports
+
+<p align="center">
+  <img src="prototype_overview.png" width="100%">
+</p>
 
 # Queue & Capacity Management
 
